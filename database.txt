@@ -1,0 +1,2 @@
+﻿
+mongodb+srv://piratdev:iaOVEsQVF53W0L6I@cluster0.makhgk6.mongodb.net/test
